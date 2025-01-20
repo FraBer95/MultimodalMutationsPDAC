@@ -1,0 +1,37 @@
+CLAM
+
+******segmentation******
+python create_patches_fp.py --source /mnt/e/Datasets/DP_Pancreas/Clam_data --save_dir ./patches/TCGA_patches_x40_x512 --patch_size 512 --seg --patch --stitch
+
+*****feature extraction*******+
+
+CUDA_VISIBLE_DEVICES=0 python extract_features_fp.py --data_h5_dir  /mnt/e/Users/Berloco/PycharmProjects/DPMultimodal/CLAM/patches/TCGA_patches_x40_x512 --data_slide_dir /mnt/e/Datasets/DP_Pancreas/Clam_data --csv_path /mnt/e/Users/Berloco/PycharmProjects/DPMultimodal/CLAM/patches/TCGA_patches_x40_x512/process_list_autogen_new.csv --feat_dir /mnt/d/Datasets/Pancreas_Features/CLAM_TCGA_features_x20_CONCH --batch_size 1024  --slide_ext .svs  --model_name conch_v1
+
+CUDA_VISIBLE_DEVICES=0 python extract_features_fp.py --data_h5_dir /mnt/e/Users/Berloco/PycharmProjects/DPMultimodal/CLAM/patches/CPTAC_patches_x20_256 --data_slide_dir /mnt/e/Datasets/DP_Pancreas/clam_CPTAC --csv_path  /mnt/e/Users/Berloco/PycharmProjects/DPMultimodal/CLAM/patches/CPTAC_patches_x20_256/process_list_autogen_new_filtered.csv --feat_dir /mnt/d/Datasets/Pancreas_Features/CLAM_CPTAC_features_x20_CONCH --batch_size 2048 --slide_ext .svs --model_name conch_v1
+
+CUDA_VISIBLE_DEVICES=0 python extract_features_fp.py --data_h5_dir ./DLBCL_patches --data_slide_dir /mnt/e/Datasets/DLBCL/dlbcl_svs --csv_path ./DLBCL_patches/process_list_autogen_new.csv --feat_dir ./CLAM_DLBCL_features --batch_size 128 --slide_ext .svs
+
+
+*********creating splits**********
+python create_splits_seq.py --task task_1_status --seed 1 --label_frac 0.75 --k 10
+python create_splits_seq.py --task task_1_status --seed 1 --label_frac 0.9  --k 10
+python create_splits_seq.py --task task_3_tumor_mutation --seed 1  --k 10
+
+
+********training**********
+CUDA_VISIBLE_DEVICES=0 python main.py --drop_out --lr 2e-5  --weighted_sample --bag_loss f_ce --task task_3_tumor_mutation --model_type clam_sb --log_data --data_root_dir ./ --split_dir task_3_tumor_mutation_100 --exp_code train_tcga_x20_mut_es --early_stopping
+CUDA_VISIBLE_DEVICES=0 python main.py --drop_out --early_stopping --lr 2e-4 --k 10 --label_frac 0.75 --exp_code task_1_cptac_Status --weighted_sample --bag_loss ce --inst_loss ce --task task_1_status --model_type clam_sb --log_data --data_root_dir ./ --split task_1_75_cptac
+CUDA_VISIBLE_DEVICES=0 python main.py --drop_out --early_stopping --lr 2e-4  --exp_code task_1_cptac_Status --weighted_sample --bag_loss ce --inst_loss ce --task task_1_status --model_type clam_sb --log_data --data_root_dir ./ --split task_1_75_cptac
+
+
+*******eval***********
+CUDA_VISIBLE_DEVICES=0 python eval.py --drop_out --k 10 --models_exp_code task_1_cptac_Status_s1 --save_exp_code task_1_cptac_eval --task task_1_status_cptac --model_type clam_sb --model_size big  --results_dir ./cptac_res_big  --data_root_dir ./
+CUDA_VISIBLE_DEVICES=0 python eval.py --drop_out --models_exp_code task_1_dlbcl_s1 --save_exp_code task_1_dlbcl --task task_1_status_cptac --model_type clam_sb  --data_root_dir ./ --split all
+CUDA_VISIBLE_DEVICES=0 python eval.py --drop_out --k 10 --models_exp_code train_tcga_x20_fce_s1 --save_exp_code tcga_eval_tcga_x20_val --task task_1_status_tcga --model_type clam_sb  --data_root_dir ./ --split val
+
+for file in os.listdir('./CLAM/dataset_csv/cptac'):
+    file_path = os.path.join(folder_path, file)
+    if file.endswith('.csv'):
+        df = pd.read_csv(file_path)
+        df = pd.merge(df, slides_df['slide_id'], on='slide_id')
+        df.to_csv(os.path.join(./CLAM/dataset_csv/cptac_new, file), index=False)

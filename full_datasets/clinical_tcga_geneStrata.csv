@@ -1,0 +1,171 @@
+"","project","submitter_id","vital_status","days_to_last_follow_up","days_to_death","gender","age_at_diagnosis","ajcc_pathologic_stage","ajcc_pathologic_t","ajcc_pathologic_n","ajcc_pathologic_m","primary_diagnosis","overall_survival","deceased","KRAS","TP53","SMAD4","CDKN2A","TTN","MUC16","RNF43","ARID1A","HECW2","KDM6A","RYR1","TGFBR2","TNXB","ATM","CACNA1B","FAT2","GLI3","GNAS","PCDH15","RIMS2"
+"1","TCGA-PAAD","TCGA-HZ-7918","Alive",32,NA,"male",73,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",32,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+"2","TCGA-PAAD","TCGA-3A-A9IS","Alive",33,NA,"male",67,"Stage IB","T2","N0","MX","Neuroendocrine carcinoma, NOS",33,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"4","TCGA-PAAD","TCGA-IB-AAUW","Dead",6,8,"female",64,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",8,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"5","TCGA-PAAD","TCGA-2J-AABP","Alive",15,NA,"female",59,"Stage IIB","T3","N1","M0","Carcinoma, undifferentiated, NOS",15,FALSE,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"6","TCGA-PAAD","TCGA-2L-AAQM","Alive",45,NA,"male",53,"Stage IIB","T3","N1","MX","Neuroendocrine carcinoma, NOS",45,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"7","TCGA-PAAD","TCGA-3A-A9IO","Alive",64,NA,"male",56,NA,"TX","NX","MX","Neuroendocrine carcinoma, NOS",64,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9","TCGA-PAAD","TCGA-3A-A9IV","Alive",36,NA,"female",60,"Stage IB","T2","N0","MX","Neuroendocrine carcinoma, NOS",36,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"10","TCGA-PAAD","TCGA-3A-A9IR","Alive",51,NA,"female",64,"Stage IB","T2","N0","MX","Neuroendocrine carcinoma, NOS",51,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"11","TCGA-PAAD","TCGA-IB-7654","Dead",NA,16,"male",80,"Stage IIB","T2","N1","M0","Infiltrating duct carcinoma, NOS",16,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"13","TCGA-PAAD","TCGA-FB-AAPP","Dead",NA,16,"male",72,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",16,TRUE,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+"14","TCGA-PAAD","TCGA-F2-7273","Dead",12,19,"male",55,"Stage IIB","T3","N1","M0","Adenocarcinoma, NOS",19,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"17","TCGA-PAAD","TCGA-H8-A6C1","Alive",22,NA,"male",54,"Stage IIA","T3","N0","MX","Adenocarcinoma, NOS",22,FALSE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"18","TCGA-PAAD","TCGA-HZ-7289","Dead",8,22,"male",77,"Stage IIB","T3","N1","MX","Adenocarcinoma, NOS",22,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+"20","TCGA-PAAD","TCGA-3A-A9IN","Alive",69,NA,"female",62,"Stage IB","T2","NX","MX","Neuroendocrine carcinoma, NOS",69,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"21","TCGA-PAAD","TCGA-HZ-7920","Dead",0,8,"male",72,"Stage IB","T2","N0","MX","Infiltrating duct carcinoma, NOS",8,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"22","TCGA-PAAD","TCGA-3A-A9IL","Alive",90,NA,"female",40,"Stage I","T1",NA,"MX","Neuroendocrine carcinoma, NOS",90,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"24","TCGA-PAAD","TCGA-F2-6880","Alive",10,NA,"male",71,"Stage IIB","T3","N1","M0","Adenocarcinoma, NOS",10,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"25","TCGA-PAAD","TCGA-3A-A9IJ","Alive",61,NA,"male",65,"Stage IB","T2","N0","MX","Neuroendocrine carcinoma, NOS",61,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"26","TCGA-PAAD","TCGA-FB-A7DR","Dead",5,12,"male",48,"Stage IIA","T3","NX","M0","Mucinous adenocarcinoma",12,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"27","TCGA-PAAD","TCGA-M8-A5N4","Alive",19,NA,"female",48,"Stage IIA","T3","N0","M0","Infiltrating duct carcinoma, NOS",19,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"28","TCGA-PAAD","TCGA-IB-AAUP","Alive",14,NA,"male",68,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",14,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"29","TCGA-PAAD","TCGA-HZ-8637","Dead",0,17,"female",77,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",17,TRUE,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"30","TCGA-PAAD","TCGA-IB-7888","Dead",NA,44,"female",66,"Stage IIA","T3","N0","M0","Infiltrating duct carcinoma, NOS",44,TRUE,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"31","TCGA-PAAD","TCGA-FB-A78T","Dead",0,12,"female",72,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",12,TRUE,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"32","TCGA-PAAD","TCGA-HV-A7OL","Alive",8,NA,"male",71,"Stage IIA","T3","N0","MX","Infiltrating duct carcinoma, NOS",8,FALSE,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"33","TCGA-PAAD","TCGA-2J-AABO","Alive",14,NA,"male",43,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",14,FALSE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"34","TCGA-PAAD","TCGA-HZ-A8P1","Alive",0,NA,"male",81,"Stage IB","T2","N0","MX","Infiltrating duct carcinoma, NOS",0,FALSE,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"35","TCGA-PAAD","TCGA-FB-AAPS","Alive",7,NA,"female",63,"Stage IIB","T2","N1","MX","Infiltrating duct carcinoma, NOS",7,FALSE,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"36","TCGA-PAAD","TCGA-2J-AABI","Alive",32,NA,"female",56,"Stage IIA","T3","N0","M0","Adenocarcinoma, NOS",32,FALSE,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"37","TCGA-PAAD","TCGA-XD-AAUI","Dead",7,12,"female",51,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",12,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"38","TCGA-PAAD","TCGA-IB-AAUN","Dead",NA,5,"female",74,"Stage IB","T2","N0","M0","Infiltrating duct carcinoma, NOS",5,TRUE,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"39","TCGA-PAAD","TCGA-IB-7647","Dead",NA,22,"male",42,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",22,TRUE,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"40","TCGA-PAAD","TCGA-FB-AAPY","Dead",NA,35,"male",71,"Stage IIB","T2","N1","MX","Infiltrating duct carcinoma, NOS",35,TRUE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"41","TCGA-PAAD","TCGA-RB-A7B8","Dead",1,15,"female",81,"Stage IIB","T3","N1","MX","Adenocarcinoma with mixed subtypes",15,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"43","TCGA-PAAD","TCGA-2J-AABR","Alive",14,NA,"female",61,"Stage IIA","T3","N0","M0","Infiltrating duct carcinoma, NOS",14,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"44","TCGA-PAAD","TCGA-IB-AAUO","Dead",NA,8,"female",65,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",8,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"45","TCGA-PAAD","TCGA-3A-A9I7","Alive",43,NA,"male",46,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",43,FALSE,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"46","TCGA-PAAD","TCGA-IB-A5SS","Dead",NA,15,"female",64,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",15,TRUE,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"47","TCGA-PAAD","TCGA-2L-AAQA","Dead",NA,5,"male",77,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",5,TRUE,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+"48","TCGA-PAAD","TCGA-FZ-5919","Dead",NA,24,"female",59,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",24,TRUE,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"49","TCGA-PAAD","TCGA-FB-AAQ6","Dead",NA,8,"male",86,"Stage IA","T1","N0","MX","Infiltrating duct carcinoma, NOS",8,TRUE,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+"51","TCGA-PAAD","TCGA-IB-7885","Alive",41,NA,"female",78,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",41,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"52","TCGA-PAAD","TCGA-S4-A8RO","Alive",17,NA,"female",76,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",17,FALSE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"53","TCGA-PAAD","TCGA-IB-A5ST","Alive",21,NA,"female",65,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",21,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"54","TCGA-PAAD","TCGA-IB-A7LX","Dead",NA,8,"male",57,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",8,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"55","TCGA-PAAD","TCGA-US-A779","Dead",NA,17,"female",55,"Stage IIB","T3","N1b","MX","Infiltrating duct carcinoma, NOS",17,TRUE,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"56","TCGA-PAAD","TCGA-2L-AAQE","Dead",NA,22,"male",56,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",22,TRUE,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"57","TCGA-PAAD","TCGA-2J-AABK","Alive",16,NA,"male",72,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",16,FALSE,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"58","TCGA-PAAD","TCGA-FZ-5926","Dead",NA,18,"female",74,"Stage III","T3","N1","M0","Infiltrating duct carcinoma, NOS",18,TRUE,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"59","TCGA-PAAD","TCGA-PZ-A5RE","Dead",8,15,"female",45,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",15,TRUE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"60","TCGA-PAAD","TCGA-IB-AAUM","Alive",0,NA,"male",77,"Stage IIB","T2","N1","M0","Infiltrating duct carcinoma, NOS",0,FALSE,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"61","TCGA-PAAD","TCGA-IB-A7M4","Alive",16,NA,"male",82,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",16,FALSE,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"62","TCGA-PAAD","TCGA-IB-A6UG","Dead",NA,1,"male",65,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",1,TRUE,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"63","TCGA-PAAD","TCGA-3A-A9IU","Dead",NA,15,"male",66,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",15,TRUE,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"64","TCGA-PAAD","TCGA-HV-AA8X","Dead",NA,17,"female",76,"Stage IIB","T2","N1","MX","Infiltrating duct carcinoma, NOS",17,TRUE,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"65","TCGA-PAAD","TCGA-2J-AABA","Dead",NA,20,"male",55,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",20,TRUE,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+"66","TCGA-PAAD","TCGA-2J-AABV","Dead",NA,21,"male",74,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",21,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"67","TCGA-PAAD","TCGA-HV-A5A3","Dead",NA,4,"male",51,"Stage IIA","T3","NX","MX","Infiltrating duct carcinoma, NOS",4,TRUE,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+"68","TCGA-PAAD","TCGA-IB-7886","Dead",NA,4,"male",80,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",4,TRUE,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"69","TCGA-PAAD","TCGA-HV-A5A4","Alive",8,NA,"female",72,"Stage IIA","T3","N0","MX","Infiltrating duct carcinoma, NOS",8,FALSE,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"70","TCGA-PAAD","TCGA-IB-AAUQ","Dead",NA,6,"male",50,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",6,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"71","TCGA-PAAD","TCGA-HZ-7919","Dead",1,19,"female",52,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",19,TRUE,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"73","TCGA-PAAD","TCGA-S4-A8RM","Alive",24,NA,"male",67,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",24,FALSE,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"75","TCGA-PAAD","TCGA-IB-AAUU","Alive",8,NA,"male",36,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",8,FALSE,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"76","TCGA-PAAD","TCGA-2J-AABE","Alive",22,NA,"male",74,"Stage IIA","T3","N0","M0","Infiltrating duct carcinoma, NOS",22,FALSE,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"77","TCGA-PAAD","TCGA-3A-A9IB","Dead",NA,7,"female",69,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",7,TRUE,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"78","TCGA-PAAD","TCGA-XN-A8T5","Alive",24,NA,"female",54,"Stage IB","T2","N0","M0","Infiltrating duct carcinoma, NOS",24,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"79","TCGA-PAAD","TCGA-US-A77G","Dead",NA,0,"male",64,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",0,TRUE,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"80","TCGA-PAAD","TCGA-3A-A9IZ","Dead",NA,10,"male",47,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",10,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"81","TCGA-PAAD","TCGA-XD-AAUL","Alive",16,NA,"male",56,"Stage IIA","T3","N0","MX","Infiltrating duct carcinoma, NOS",16,FALSE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"82","TCGA-PAAD","TCGA-IB-7897","Dead",NA,16,"female",54,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",16,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"83","TCGA-PAAD","TCGA-HZ-8315","Dead",1,10,"female",54,"Stage IIA","T3","N0","MX","Infiltrating duct carcinoma, NOS",10,TRUE,1,1,1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+"84","TCGA-PAAD","TCGA-HZ-8636","Dead",0,18,"female",59,"Stage IV","T3","N0","M1","Infiltrating duct carcinoma, NOS",18,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"85","TCGA-PAAD","TCGA-IB-7893","Dead",NA,4,"male",65,"Stage IIA","T3","N0","M0","Infiltrating duct carcinoma, NOS",4,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"86","TCGA-PAAD","TCGA-US-A774","Dead",NA,23,"female",77,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",23,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"87","TCGA-PAAD","TCGA-IB-8127","Alive",17,NA,"male",59,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",17,FALSE,1,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+"89","TCGA-PAAD","TCGA-HV-AA8V","Alive",30,NA,"male",50,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",30,FALSE,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"90","TCGA-PAAD","TCGA-3A-A9IH","Alive",34,NA,"female",66,"Stage IA","T1","N0","MX","Infiltrating duct carcinoma, NOS",34,FALSE,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"91","TCGA-PAAD","TCGA-HZ-A49H","Alive",16,NA,"female",68,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",16,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"92","TCGA-PAAD","TCGA-Q3-A5QY","Alive",14,NA,"male",58,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",14,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"93","TCGA-PAAD","TCGA-IB-7644","Dead",11,13,"female",66,"Stage IV","T3","N1","M1","Infiltrating duct carcinoma, NOS",13,TRUE,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"94","TCGA-PAAD","TCGA-IB-7652","Alive",37,NA,"female",50,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",37,FALSE,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+"95","TCGA-PAAD","TCGA-HV-A5A5","Alive",10,NA,"female",61,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",10,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"96","TCGA-PAAD","TCGA-2L-AAQL","Dead",NA,10,"male",82,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",10,TRUE,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"97","TCGA-PAAD","TCGA-F2-A7TX","Dead",NA,3,"male",77,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",3,TRUE,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"98","TCGA-PAAD","TCGA-F2-A44G","Dead",5,8,"female",80,"Stage IIB","T3","N1","M0","Adenocarcinoma, NOS",8,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"99","TCGA-PAAD","TCGA-HZ-8005","Dead",NA,4,"male",81,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",4,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"100","TCGA-PAAD","TCGA-Q3-AA2A","Alive",3,NA,"female",65,"Stage IB","T3","N1","MX","Infiltrating duct carcinoma, NOS",3,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"101","TCGA-PAAD","TCGA-HZ-A49I","Dead",0,10,"male",78,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",10,TRUE,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"102","TCGA-PAAD","TCGA-HZ-7926","Dead",0,17,"male",58,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",17,TRUE,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"103","TCGA-PAAD","TCGA-HZ-A4BH","Alive",6,NA,"male",76,"Stage IIB","T3","N1b","MX","Infiltrating duct carcinoma, NOS",6,FALSE,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"104","TCGA-PAAD","TCGA-2J-AAB8","Alive",3,NA,"male",71,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",3,FALSE,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"105","TCGA-PAAD","TCGA-LB-A9Q5","Dead",5,10,"female",64,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",10,TRUE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"106","TCGA-PAAD","TCGA-IB-7889","Dead",NA,16,"female",86,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",16,TRUE,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"107","TCGA-PAAD","TCGA-2J-AAB4","Alive",24,NA,"male",49,"Stage IIB","T2","N1","M0","Adenocarcinoma, NOS",24,FALSE,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"108","TCGA-PAAD","TCGA-3A-A9I9","Dead",NA,21,"male",68,"Stage IIA","T3","N0","MX","Infiltrating duct carcinoma, NOS",21,TRUE,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"109","TCGA-PAAD","TCGA-2J-AABT","Alive",10,NA,"female",72,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",10,FALSE,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"110","TCGA-PAAD","TCGA-FB-A5VM","Dead",15,16,"male",75,"Stage IB","T2","N0","M0","Infiltrating duct carcinoma, NOS",16,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"111","TCGA-PAAD","TCGA-HV-A5A6","Dead",64,67,"female",66,"Stage IIB","T3","N1b","M0","Infiltrating duct carcinoma, NOS",67,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"112","TCGA-PAAD","TCGA-IB-8126","Alive",15,NA,"female",80,"Stage III","T4","N1","M0","Infiltrating duct carcinoma, NOS",15,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"114","TCGA-PAAD","TCGA-OE-A75W","Dead",4,9,"male",76,"Stage IIA","T3","N0","M0","Infiltrating duct carcinoma, NOS",9,TRUE,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+"115","TCGA-PAAD","TCGA-HZ-8002","Dead",1,12,"male",61,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",12,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"116","TCGA-PAAD","TCGA-IB-A5SQ","Dead",NA,7,"female",57,"Stage IB","T2","N0","M0","Infiltrating duct carcinoma, NOS",7,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"117","TCGA-PAAD","TCGA-FZ-5924","Dead",NA,16,"male",84,"Stage IIA","T3","N1","M0","Infiltrating duct carcinoma, NOS",16,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"118","TCGA-PAAD","TCGA-YH-A8SY","Alive",13,NA,"female",74,NA,"T3","N1","MX","Adenocarcinoma, NOS",13,FALSE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"119","TCGA-PAAD","TCGA-HZ-A4BK","Alive",22,NA,"male",73,"Stage IIB","T3","N1","MX","Adenocarcinoma, NOS",22,FALSE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"120","TCGA-PAAD","TCGA-IB-7890","Dead",NA,20,"male",73,"Stage IB","T2","N0","M0","Infiltrating duct carcinoma, NOS",20,TRUE,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"121","TCGA-PAAD","TCGA-HZ-8001","Alive",23,NA,"male",69,"Stage III","T4","N0","MX","Infiltrating duct carcinoma, NOS",23,FALSE,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"122","TCGA-PAAD","TCGA-IB-A6UF","Alive",22,NA,"male",63,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",22,FALSE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"123","TCGA-PAAD","TCGA-F2-A44H","Alive",19,NA,"male",66,"Stage IIA","T3","N0","M0","Adenocarcinoma, NOS",19,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"124","TCGA-PAAD","TCGA-LB-A7SX","Dead",4,13,"female",75,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",13,TRUE,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+"125","TCGA-PAAD","TCGA-FB-AAQ3","Dead",NA,1,"female",66,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",1,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"126","TCGA-PAAD","TCGA-HZ-A77P","Alive",11,NA,"male",78,"Stage IIB","T3","N1","MX","Adenocarcinoma, NOS",11,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"127","TCGA-PAAD","TCGA-US-A77E","Dead",NA,14,"male",73,"Stage IIB","T3","N1","MX","Adenocarcinoma, NOS",14,TRUE,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"128","TCGA-PAAD","TCGA-HV-A7OP","Alive",32,NA,"male",72,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",32,FALSE,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"129","TCGA-PAAD","TCGA-F2-A8YN","Alive",17,NA,"male",77,"Stage IIA","T3","N0","M0","Infiltrating duct carcinoma, NOS",17,FALSE,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"130","TCGA-PAAD","TCGA-IB-AAUR","Alive",11,NA,"male",67,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",11,FALSE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"131","TCGA-PAAD","TCGA-3A-A9IC","Dead",NA,24,"female",61,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",24,TRUE,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"132","TCGA-PAAD","TCGA-HZ-8003","Dead",1,20,"female",65,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",20,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"133","TCGA-PAAD","TCGA-IB-AAUS","Alive",7,NA,"female",84,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",7,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"134","TCGA-PAAD","TCGA-Z5-AAPL","Alive",15,NA,"female",74,"Stage IIA","T3","N0","M0","Infiltrating duct carcinoma, NOS",15,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"135","TCGA-PAAD","TCGA-HZ-7922","Alive",0,NA,"female",61,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",0,FALSE,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"136","TCGA-PAAD","TCGA-2J-AAB6","Dead",NA,10,"male",76,"Stage IIA","T3","N0","M0","Infiltrating duct carcinoma, NOS",10,TRUE,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"137","TCGA-PAAD","TCGA-FB-AAPU","Dead",NA,13,"female",41,"Stage IIA","T3","N0","MX","Infiltrating duct carcinoma, NOS",13,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"138","TCGA-PAAD","TCGA-2J-AAB1","Dead",NA,2,"male",66,"Stage IIB","T3","N1","M0","Mucinous adenocarcinoma",2,TRUE,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"139","TCGA-PAAD","TCGA-H6-A45N","Dead",8,13,"female",89,"Stage IIB","T3","N1","MX","Adenocarcinoma, NOS",13,TRUE,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"140","TCGA-PAAD","TCGA-IB-7645","Dead",NA,49,"female",44,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",49,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"141","TCGA-PAAD","TCGA-H6-8124","Alive",13,NA,"female",57,"Stage IIB","T3","N1","M0","Adenocarcinoma, NOS",13,FALSE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"142","TCGA-PAAD","TCGA-FZ-5923","Dead",NA,20,"male",72,"Stage IV","T4","N1","M1","Infiltrating duct carcinoma, NOS",20,TRUE,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"143","TCGA-PAAD","TCGA-FB-AAQ0","Dead",NA,16,"male",68,"Stage IIA","T3","N0","MX","Infiltrating duct carcinoma, NOS",16,TRUE,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"144","TCGA-PAAD","TCGA-2J-AABF","Dead",NA,23,"male",74,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",23,TRUE,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"145","TCGA-PAAD","TCGA-IB-AAUT","Alive",9,NA,"male",65,"Stage IIB","T2","N1","M0","Mucinous adenocarcinoma",9,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"146","TCGA-PAAD","TCGA-F2-6879","Dead",NA,11,"male",57,"Stage IIB","T3","N1","M0","Adenocarcinoma, NOS",11,TRUE,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"147","TCGA-PAAD","TCGA-FB-A4P6","Alive",25,NA,"male",55,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",25,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"148","TCGA-PAAD","TCGA-HZ-A9TJ","Alive",20,NA,"male",71,"Stage IV","T3","N0","M1","Adenocarcinoma, NOS",20,FALSE,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"149","TCGA-PAAD","TCGA-3A-A9IX","Alive",34,NA,"male",40,"Stage IA","T1","N0","MX","Infiltrating duct carcinoma, NOS",34,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"150","TCGA-PAAD","TCGA-HZ-A8P0","Alive",0,NA,"male",76,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",0,FALSE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"151","TCGA-PAAD","TCGA-3A-A9I5","Alive",59,NA,"male",58,NA,NA,"N0","MX","Infiltrating duct carcinoma, NOS",59,FALSE,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"152","TCGA-PAAD","TCGA-3E-AAAZ","Dead",NA,72,"male",72,"Stage IIA","T3","N0","MX","Infiltrating duct carcinoma, NOS",72,TRUE,1,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+"153","TCGA-PAAD","TCGA-RB-AA9M","Alive",9,NA,"male",43,"Stage IIB","T1","N1","MX","Infiltrating duct carcinoma, NOS",9,FALSE,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"154","TCGA-PAAD","TCGA-FZ-5920","Dead",NA,2,"male",53,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",2,TRUE,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"155","TCGA-PAAD","TCGA-2L-AAQI","Dead",NA,3,"male",67,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",3,TRUE,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"156","TCGA-PAAD","TCGA-HZ-8317","Dead",1,12,"female",69,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",12,TRUE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"157","TCGA-PAAD","TCGA-3A-A9J0","Alive",24,NA,"male",75,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",24,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+"158","TCGA-PAAD","TCGA-FZ-5922","Dead",NA,36,"male",81,"Stage IIA","T3","N0","M0","Infiltrating duct carcinoma, NOS",36,TRUE,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+"159","TCGA-PAAD","TCGA-2J-AAB9","Dead",NA,21,"female",71,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",21,TRUE,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"160","TCGA-PAAD","TCGA-3E-AAAY","Alive",75,NA,"male",68,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",75,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"163","TCGA-PAAD","TCGA-XD-AAUH","Alive",13,NA,"female",57,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",13,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"164","TCGA-PAAD","TCGA-YB-A89D","Alive",12,NA,"male",60,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",12,FALSE,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"165","TCGA-PAAD","TCGA-IB-A5SP","Alive",16,NA,"male",78,"Stage IIA","T3","N0","M0","Infiltrating duct carcinoma, NOS",16,FALSE,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+"166","TCGA-PAAD","TCGA-2J-AABH","Alive",42,NA,"male",61,"Stage IIA","T3","N0","M0","Adenocarcinoma, NOS",42,FALSE,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"167","TCGA-PAAD","TCGA-IB-A5SO","Dead",11,12,"male",72,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",12,TRUE,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"168","TCGA-PAAD","TCGA-IB-7891","Dead",21,30,"female",50,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",30,TRUE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"169","TCGA-PAAD","TCGA-S4-A8RP","Dead",NA,23,"female",78,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",23,TRUE,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"170","TCGA-PAAD","TCGA-HZ-A77Q","Alive",1,NA,"female",56,"Stage IIB","T3","N1","MX","Adenocarcinoma, NOS",1,FALSE,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"171","TCGA-PAAD","TCGA-IB-7646","Dead",NA,5,"male",61,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",5,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"172","TCGA-PAAD","TCGA-US-A776","Alive",40,NA,"male",61,"Stage IIA","T3","N0","MX","Mucinous adenocarcinoma",40,FALSE,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+"173","TCGA-PAAD","TCGA-XN-A8T3","Alive",31,NA,"male",68,"Stage IB","T2","N0","M0","Infiltrating duct carcinoma, NOS",31,FALSE,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+"174","TCGA-PAAD","TCGA-IB-7649","Dead",NA,15,"female",73,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",15,TRUE,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"175","TCGA-PAAD","TCGA-FB-AAPQ","Dead",NA,37,"male",66,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",37,TRUE,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"176","TCGA-PAAD","TCGA-YY-A8LH","Alive",66,NA,"female",61,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",66,FALSE,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"177","TCGA-PAAD","TCGA-FB-AAPZ","Alive",24,NA,"male",54,"Stage IIB","T2","N1","MX","Infiltrating duct carcinoma, NOS",24,FALSE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"178","TCGA-PAAD","TCGA-FB-AAQ2","Dead",NA,5,"female",81,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",5,TRUE,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"179","TCGA-PAAD","TCGA-LB-A8F3","Alive",12,NA,"female",65,"Stage IIA","T3","N0","MX","Infiltrating duct carcinoma, NOS",12,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"180","TCGA-PAAD","TCGA-XD-AAUG","Alive",14,NA,"female",67,"Stage IV","T3","N1","M1","Infiltrating duct carcinoma, NOS",14,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"181","TCGA-PAAD","TCGA-HZ-7925","Dead",12,20,"male",66,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",20,TRUE,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"182","TCGA-PAAD","TCGA-2L-AAQJ","Dead",NA,13,"female",50,"Stage III","T4","N0","MX","Infiltrating duct carcinoma, NOS",13,TRUE,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+"183","TCGA-PAAD","TCGA-HZ-A77O","Dead",0,5,"female",78,"Stage IIB","T2","N1","MX","Infiltrating duct carcinoma, NOS",5,TRUE,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"184","TCGA-PAAD","TCGA-IB-7887","Dead",NA,4,"female",63,"Stage IIB","T3","N1","M0","Infiltrating duct carcinoma, NOS",4,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"185","TCGA-PAAD","TCGA-FB-AAQ1","Dead",NA,4,"male",50,"Stage IIB","T3","N1","MX","Infiltrating duct carcinoma, NOS",4,TRUE,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0

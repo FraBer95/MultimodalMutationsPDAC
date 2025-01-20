@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/CLAM_eval_results" />
+      <excludeFolder url="file://$MODULE_DIR$/CLAM_metrics" />
+      <excludeFolder url="file://$MODULE_DIR$/MULTIMODAL_metrics" />
+      <excludeFolder url="file://$MODULE_DIR$/Multimodal_analysis/evaluation_results" />
+      <excludeFolder url="file://$MODULE_DIR$/Multimodal_analysis/multimodal_metrics_new" />
+      <excludeFolder url="file://$MODULE_DIR$/Multimodal_analysis/multimodal_models" />
+      <excludeFolder url="file://$MODULE_DIR$/Multimodal_analysis/multimodal_preds_new" />
+      <excludeFolder url="file://$MODULE_DIR$/Multimodal_analysis/old_data" />
+      <excludeFolder url="file://$MODULE_DIR$/Multimodal_analysis/old_preds" />
+      <excludeFolder url="file://$MODULE_DIR$/Multimodal_analysis/probs_data" />
+      <excludeFolder url="file://$MODULE_DIR$/RESULTS_CURVES" />
+      <excludeFolder url="file://$MODULE_DIR$/RES_RAWS_CONCH" />
+      <excludeFolder url="file://$MODULE_DIR$/RES_RAWS_UNI" />
+      <excludeFolder url="file://$MODULE_DIR$/TRANSCRIPT_metrics" />
+      <excludeFolder url="file://$MODULE_DIR$/features_extractors" />
+      <excludeFolder url="file://$MODULE_DIR$/genomic_analysis/AE/models" />
+      <excludeFolder url="file://$MODULE_DIR$/genomic_analysis/datasets" />
+      <excludeFolder url="file://$MODULE_DIR$/genomic_analysis/logs" />
+      <excludeFolder url="file://$MODULE_DIR$/genomic_analysis/voting_classifiers_script/results" />
+      <excludeFolder url="file://$MODULE_DIR$/genomic_analysis/voting_classifiers_script/results/AE" />
+      <excludeFolder url="file://$MODULE_DIR$/genomic_analysis/voting_classifiers_script/results/DEG" />
+      <excludeFolder url="file://$MODULE_DIR$/genomic_analysis/voting_classifiers_script/results/DEG/CDKN2A/C3L-00928" />
+      <excludeFolder url="file://$MODULE_DIR$/genomic_analysis/voting_classifiers_script/results/DEG_new" />
+      <excludeFolder url="file://$MODULE_DIR$/genomic_analysis/voting_classifiers_script/results/XAI_local" />
+      <excludeFolder url="file://$MODULE_DIR$/heatmaps" />
+      <excludeFolder url="file://$MODULE_DIR$/results" />
+      <excludeFolder url="file://$MODULE_DIR$/splits" />
+    </content>
+    <orderEntry type="jdk" jdkName="survEnv" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+</module>

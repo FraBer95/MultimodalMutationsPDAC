@@ -5,4 +5,4 @@ The code is written in R and Python and it is structured as following:
 2. _Transcriptomic_analysis_, containing the scripts for transcriptomic data analysis.
 3. _Multimodal_analysis_, containing the code related to the "Naive" and to the "Neural" fusion layer, as well as metrics computation.
 
-** Work in progress...**
+**Work in progress...**

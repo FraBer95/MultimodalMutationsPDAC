@@ -390,7 +390,7 @@ class MyTestCase(unittest.TestCase):
          origin_path = "/mnt/e/Users/Berloco/PycharmProjects/CLAM/dataset_csv/tcga_csv"
          csv_name = 'tcga_SMAD4.csv'
          original_csv_path = os.path.join(origin_path, csv_name)
-         transcriptomic_csv_path = "/mnt/e/Users/Berloco/PycharmProjects/CLAM/genomic_analysis/datasets/autoencoder_data/raw_data/TCGA_5kgenes.csv"  # CSV con sample_id trascrittomici
+         transcriptomic_csv_path = "/mnt/e/Users/Berloco/PycharmProjects/CLAM/Trascriptomics_analysis/datasets/autoencoder_data/raw_data/TCGA_5kgenes.csv"  # CSV con sample_id trascrittomici
          #filtered_csv_path = "/path/to/final_filtered.csv"  # CSV filtrato
 
          # Carica i CSV

@@ -6,8 +6,8 @@ from model import training_keras_model
 from tqdm import tqdm
 
 from run_eval import inference
-from genomic_analysis.voting_classifiers_script.train_voting import training_models
-from genomic_analysis.voting_classifiers_script.train_voting_Keras import training_keras_model as keras_naive
+from Trascriptomics_analysis.voting_classifiers.train_voting import training_models
+from Trascriptomics_analysis.voting_classifiers.train_voting_Keras import training_keras_model as keras_naive
 
 
 
